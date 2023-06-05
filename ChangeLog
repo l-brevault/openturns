@@ -22,6 +22,9 @@
 
 === Miscellaneous ===
 
+=== Bug fixes ===
+ * #2323 (Minor wording issues in the cross entropy importance sampling example)
+
 
 == 1.21rc1 release (2023-05-16) == #release-1.21rc1
 
